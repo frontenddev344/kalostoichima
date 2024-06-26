@@ -284,9 +284,7 @@ border-color: #2961ab;
     border-radius: 10px;
 }
 
-.top-sec .row{
-    align-items: center;
-}
+
 /* main section css start */
 .main-wrap {
     background-color: var(--white);
