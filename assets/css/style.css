@@ -332,6 +332,10 @@ p {
 .main-img {
     height: 500px;
     overflow: hidden;
+    transition: all 0.4s;
+}
+.main-img:hover {
+    filter: grayscale(1);
 }
 
 .main-img img {
@@ -767,4 +771,8 @@ div#accordionExample {
 ul.offer_ul {
     list-style: disc;
     padding-left: 10px;
+}
+a.moreless-button:hover {
+    background: transparent;
+    color: #2c4549;
 }
