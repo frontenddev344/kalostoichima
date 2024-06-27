@@ -673,3 +673,7 @@ transition: all 0.3s linear;
     height: 100%;
     z-index: 1;
 }
+ul.offer_ul {
+    list-style: disc;
+    padding-left: 10px;
+}
