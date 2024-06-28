@@ -776,3 +776,8 @@ a.moreless-button:hover {
     background: transparent;
     color: #2c4549;
 }
+
+.first_luxury_hotel .main-img {
+    border-radius: 20px 0 0 20px;
+}
+
