@@ -208,9 +208,6 @@
     .banner-txt h1 {
         font-size: 40px;
     }
-    .top-sec .row {
-        flex-direction: column-reverse;
-    }
     .top-sec .col-md-5, .top-sec .col-md-7 {
         width: 100%;
     }
